@@ -1,0 +1,10 @@
+{
+  "name": "kahooter_booter",
+  "version": "1.1.0",
+  "description": "It spams Kahoot game",
+  "main": "SumCodeLol.js",
+  "dependencies": {
+    "kahoot.js-updated": "^1.2.13",
+    "readline-sync": "^1.4.10"
+  }
+}

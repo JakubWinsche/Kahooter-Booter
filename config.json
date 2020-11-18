@@ -1,0 +1,9 @@
+{
+    "botName": "RealPersonNumber",
+    "botAmount": 10,
+    "gamePin": 3597698,
+    "joinDelay": 150,
+    "nameBypass": false,
+    "autoReconnect": true,
+    "userChoice": false
+}
